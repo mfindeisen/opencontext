@@ -1,5 +1,5 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-[![Travis-CI Build Status](https://travis-ci.org/ropensci/opencontext.png?branch=master)](https://travis-ci.org/ropensci/opencontext)
+[![Travis-CI Build Status](https://travis-ci.org/mfindeisen/opencontext.svg?branch=master)](https://travis-ci.org/mfindeisen/opencontext)
 
 opencontext: An R API client for the Open Context archaeological data repository
 --------------------------------------------------------------------------------
@@ -13,7 +13,7 @@ Install `opencontext`
 
 ``` r
 install.packages("devtools")
-devtools::install_github("ropensci/opencontext")
+devtools::install_github("mfindeisen/opencontext")
 ```
 
 ``` r
