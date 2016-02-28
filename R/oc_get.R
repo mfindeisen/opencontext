@@ -53,11 +53,6 @@ oc_get_projects <- function(project) {
 }
 
 
-
-
-
-
-
 oc_get_records <- function(field, type, category) {
   UseMethod("oc_get_records")
 }
@@ -99,4 +94,3 @@ get_row <- function(row, type) {
 
   result
 }
-
